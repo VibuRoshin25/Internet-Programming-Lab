@@ -1,0 +1,10 @@
+img.bg-img{
+    opacity: 40%; 
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: auto;
+}
+h3:hover{
+    color: rgb(0, 139, 93);
+}
