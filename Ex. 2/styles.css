@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url("whale.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h3:hover {
+    color: rgb(0, 139, 93);
+}
